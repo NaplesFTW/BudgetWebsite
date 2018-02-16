@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html leng="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="practice.css">
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<button type="button" class="btn btn-primary btn-block btn-lg dropdown-toggle" data-toggle="dropdown">Budgets<span class="caret"></span></button>
+					<ul class="dropdown-menu" role="menu">
+						<li class="dropdown-header">Quick Data</li>
+						<li><a href="#">Current Spending</a>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+									70%
+								</div>
+						</li>
+				
+						<li><a href="#">Goals Reached</a>
+							<div class="progress">
+								<div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100" style="width: 66%">
+									2/3
+							</div>
+						</li>
+						<li class="dropdown-header">Budgets</li>
+						<li><a href="#">Create New Monthly Budget</a></li>
+						<li><a href="#">Current Month Progress</a></li>
+						<li class="divider"></li>
+						<li class="dropdown-header">Transactions</li>
+						<li><a href="#">Enter Transactions</a></li>
+					</ul>
+				</div>
+				<div class="col-sm-4">
+					<button type="button" class="btn btn-danger btn-block btn-lg dropdown-toggle" data-toggle="dropdown">Alerts<span class="caret"></span></button>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="#">Purchase Requests<span class="badge">3</span></a></li>
+						<li class="divider"></li>
+						<li><a href="#">Danger Zone<span class="label label-danger">Level: High!</span></a></li>
+					</ul>
+				</div>
+				<div class="col-sm-4">
+					<button type="button" class="btn btn-info btn-block btn-lg dropdown-toggle" data-toggle="dropdown">User<span class="caret"></span></button>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="#">Account Info</a></li>
+						<li><a href="#">Spending Statistics</a></li>
+					</ul>
+				</div>
+	</body>
+	</html>
