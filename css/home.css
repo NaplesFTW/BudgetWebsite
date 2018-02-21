@@ -1,0 +1,24 @@
+body, html{
+  height: 100%;
+}
+
+.back1{
+  background-image: linear-gradient(to bottom right, #23366b, #378ea7, #cecece);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.dropdown-toggle{
+  padding: 10%;
+  font-size: 200%
+}
+
+.row{
+  margin-top: 10%;
+}
+.card{
+  margin-top: 20%
+}
