@@ -45,15 +45,15 @@
 					</ul>
 				</div>
 				<div class="col-sm-4">
-					<button type="button" class="btn btn-danger btn-block btn-lg dropdown-toggle" data-toggle="dropdown">Alerts<span class="caret"></span></button>
+					<button type="button" class="btn btn-primary btn-block btn-lg dropdown-toggle" data-toggle="dropdown">Alerts<span class="caret"></span></button>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="#">Purchase Requests<span class="badge">3</span></a></li>
 						<li class="divider"></li>
-						<li><a href="#">Danger Zone<span class="label label-danger">Level: High!</span></a></li>
+						<li><a href="#">Spending warning:<span class="label label-danger">Level: High!</span></a></li>
 					</ul>
 				</div>
 				<div class="col-sm-4">
-					<button type="button" class="btn btn-info btn-block btn-lg dropdown-toggle" data-toggle="dropdown">User<span class="caret"></span></button>
+					<button type="button" class="btn btn-primary btn-block btn-lg dropdown-toggle" data-toggle="dropdown">User<span class="caret"></span></button>
 						<ul class="dropdown-menu" role="menu">
 							<li><a href="#">Account Info</a></li>
 							<li><a href="#">Spending Statistics</a></li>
@@ -85,10 +85,13 @@
 				</div>
 			</div>
 		</div>
+	</div>
 	</body>
+	<div id="myFooter"/>
+	</html>
 	<script>
 	$(function(){
-  	$("#navBar").load("utilities/navBar.html");
+		$("#navBar").load("utilities/navBar.html");
+		$("#myFooter").load("utilities/footer.html");
 	});
 	</script>
-	</html>
