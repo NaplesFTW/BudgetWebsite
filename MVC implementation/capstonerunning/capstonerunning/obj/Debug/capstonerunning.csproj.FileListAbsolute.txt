@@ -1,0 +1,86 @@
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\ApplicationInsights.config
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\capstonerunning.dll.config
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\capstonerunning.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\capstonerunning.pdb
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Antlr3.Runtime.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.Web.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Newtonsoft.Json.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Helpers.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Mvc.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Optimization.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Razor.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.WebPages.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\WebGrease.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Helpers.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Mvc.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Optimization.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.Razor.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.WebPages.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Antlr3.Runtime.pdb
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Newtonsoft.Json.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\bin\Microsoft.AI.Web.xml
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csprojResolveAssemblyReference.cache
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csproj.CoreCompileInputs.cache
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\obj\Debug\capstonerunning.dll
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\obj\Debug\capstonerunning.pdb
+C:\Users\Branco\source\repos\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csproj.CopyComplete
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\ApplicationInsights.config
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\capstonerunning.dll.config
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\capstonerunning.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\capstonerunning.pdb
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Antlr3.Runtime.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.Web.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Newtonsoft.Json.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Helpers.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Mvc.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Optimization.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Razor.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.WebPages.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\WebGrease.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Helpers.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Mvc.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Optimization.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.Razor.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.WebPages.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Antlr3.Runtime.pdb
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Newtonsoft.Json.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.Web.xml
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csprojResolveAssemblyReference.cache
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csproj.CoreCompileInputs.cache
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csproj.CopyComplete
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.dll
+C:\Users\Branco\Desktop\CapWeb\BudgetWebsite\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.pdb

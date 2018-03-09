@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <button type="button" class="btn btn-primary btn-block btn-lg dropdown-toggle" data-toggle="dropdown" style="text-align:center;">Budgets<span class="caret"></span></button>
+            <ul class="dropdown-menu" role="menu">
+                <li class="dropdown-header">Budgets</li>
+                <li>@Html.ActionLink("Create New Monthly Budget", "CreateBudget", "Budget")</li>
+                <li>@Html.ActionLink("Current Month Progress", "CurrentMonthProgress", "Budget")</li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Transactions</li>
+                <li>@Html.ActionLink("Enter Transactions", "EnterTransactions", "Budget")</li>
+            </ul>
+        </div>
+        <div class="col-sm-4">
+            <button type="button" class="btn btn-primary btn-block btn-lg dropdown-toggle" data-toggle="dropdown">Alerts<span class="caret"></span></button>
+            <ul class="dropdown-menu" role="menu">
+                <li>@Html.ActionLink("Purchase Requests", "PurchaseRequests", "Alert")</li>
+                <li class="divider"></li>
+                <li>@Html.ActionLink("Spending warnings", "SpendingWarnings", "Alert")</li>
+            </ul>
+        </div>
+        <div class="col-sm-4">
+            <button type="button" class="btn btn-primary btn-block btn-lg dropdown-toggle" data-toggle="dropdown">User<span class="caret"></span></button>
+            <ul class="dropdown-menu" role="menu">
+                <li>@Html.ActionLink("Account Info", "Index", "User")</li>
+                <li>@Html.ActionLink("Spending Statistics", "Informatics", "User")</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="col-md-6 mb-r">
+    <div class="card card-image">
+        <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+            <div>
+                <h6 class="green-text"><i class="fa fa-eye"></i><strong>Household Spending Info</strong></h6>
+                <h3 class="card-title py-3 font-weight-bold"><strong>This is where we can put stuff</strong></h3>
+                <p class="pb-3">You don't have any money</p>
+                <a class="btn btn-info btn-rounded"><i class="fa fa-clone left"></i> View project</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-6 mb-r">
+    <div class="card card-image">
+        <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+            <div>
+                <h6 class="green-text"><i class="fa fa-eye"></i><strong>User Spending Info</strong></h6>
+                <h3 class="card-title py-3 font-weight-bold"><strong>This is where we can put stuff</strong></h3>
+                <p class="pb-3">You still don't have any money</p>
+                <a class="btn btn-info btn-rounded"><i class="fa fa-clone left"></i> View project</a>
+            </div>
+        </div>
+    </div>
+</div>
