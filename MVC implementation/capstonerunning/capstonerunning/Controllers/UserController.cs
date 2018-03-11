@@ -14,6 +14,10 @@ namespace capstonerunning.Controllers
             return View();
         }
 
+        public ActionResult Account()
+        {
+            return View();
+        }
         public ActionResult Informatics()
         {
             return View();

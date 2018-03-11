@@ -2,6 +2,8 @@
     height: 100%;
 }
 
+
+
 .dropdown .dropdown-menu {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
@@ -47,4 +49,8 @@
     margin-top: 15%;
     background: #ffffff;
     box-shadow: 10px 10px 5px #aaaaaa;
+}
+p {
+    border: 20px solid blue;
+    color: red;
 }

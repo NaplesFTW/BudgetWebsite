@@ -198,6 +198,7 @@
     <Content Include="Views\Alert\Index.cshtml" />
     <Content Include="Views\Alert\PurchaseRequests.cshtml" />
     <Content Include="Views\Alert\SpendingWarnings.cshtml" />
+    <Content Include="Views\User\Account.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -3,5 +3,15 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Alert - Index</h2>
+<div class="container">
+    <h2>Alert Index</h2>
 
+    <div class="row">
+        <div class="col-sm-6">
+            @Html.ActionLink("Approve/Deny Requests", "PurchaseRequests", "Alert")
+        </div>
+        <div class="col-sm-6">
+            @Html.ActionLink("View Spending Warnings", "SpendingWarnings", "Alert")
+        </div>
+    </div>
+</div>

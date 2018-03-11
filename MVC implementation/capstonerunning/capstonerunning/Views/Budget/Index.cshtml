@@ -3,5 +3,19 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Budget - Index</h2>
+<div class="container">
+    <h2>Budget Index</h2>
+
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.ActionLink("Create", "CreateBudget", "Budget")
+        </div>
+        <div class="col-sm-4">
+            @Html.ActionLink("Current Month", "CurrentMonthProgress", "Budget")
+        </div>
+        <div class="col-sm-4">
+            @Html.ActionLink("Transactions", "EnterTransactions", "Budget")
+        </div>
+    </div>
+</div>
 

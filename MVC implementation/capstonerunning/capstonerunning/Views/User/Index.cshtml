@@ -3,5 +3,14 @@
     ViewBag.Title = "Account";
 }
 
-<h2>User - Index</h2>
-
+<div class="container">
+    <h2>User - Index</h2>
+    <div class="row">
+        <div class="col-sm-6">
+            @Html.ActionLink("Account Info", "Account", "User")
+        </div>
+        <div class="col-sm-6">
+            @Html.ActionLink("User Informatics", "Informatics", "User")
+        </div>
+    </div>
+</div>
