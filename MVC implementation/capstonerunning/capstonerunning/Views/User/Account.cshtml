@@ -7,7 +7,23 @@
     <h2>Account</h2>
     <div class="row">
         <div class="col-sm-12">
-            <p>Display account info here, provide option to change info</p>
+            <table class="table">
+                <tbody>
+                <tr>
+                    <td>Username :</td>
+                    <td>@@Model.username</td>
+                </tr>
+                <tr>
+                    <td>Password :</td>
+                    <td>@@Model.password</td>
+                </tr>
+                <tr>
+                    <td>Household :</td>
+                    <td>@@Model.household</td>
+                </tr>
+                </tbody>
+            </table>
+            @Html.ActionLink("Update Info", "UpdateAccount", "User")
         </div>
     </div>
 </div>

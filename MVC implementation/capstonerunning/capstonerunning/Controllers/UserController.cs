@@ -18,6 +18,12 @@ namespace capstonerunning.Controllers
         {
             return View();
         }
+
+        public ActionResult UpdateAccount()
+        {
+            return View();
+        }
+
         public ActionResult Informatics()
         {
             return View();
