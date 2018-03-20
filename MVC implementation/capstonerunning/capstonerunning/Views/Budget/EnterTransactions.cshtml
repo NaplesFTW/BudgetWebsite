@@ -5,13 +5,70 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-12">
-            <p class="border">Tools for entering transactions here</p>
+        <div class="col-sm-12" style="border:1px solid #cecece;">
+            <h4>Add transactions manually</h4>
+            <form class="form-inline" action="#">
+                <div class="form-group">
+                    <label for="date">Date:</label>
+                    <input type="date" class="form-control" id="date">
+                </div>
+                <div class="form-group">
+                    <label for="vendor">Vendor:</label>
+                    <input type="text" class="form-control" id="vendor">
+                </div>
+                <div class="form-group">
+                    <label for="category">Category:</label>
+                    <select class="form-control" id="category">
+                        <option value="0">Misc</option>
+                        <option value="1">@@Populate categories here</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="amount">Amount:</label>
+                    <input type="text" class="form-control" id="amount">
+                </div>
+                <div class="form-group">
+                    <label for="description">Description:</label>
+                    <textarea class="form-control" rows="2" id="description"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Add</button>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12" style="border:1px solid #cecece;">
+            <h4>Upload CSV file to automatically parse transactions</h4>
+            <form action="#">
+                <input type="file" name="transactions" accept="*.csv">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
         </div>
     </div>
     <div class="row">
         <div class="col-sm-12">
-            <p>rolling list of transactions</p>
+            <h4><strong>Transactions</strong></h4>
+            <table class="table table-hover table-bordered table-striped table-condensed">
+                <thead>
+                <th>Date</th>
+                <th>Vendor</th>
+                <th>Category</th>
+                <th>Amount</th>
+                <th>Description</th>
+                <th>Images</th>
+                <th>Origin</th>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Populate</td>
+                    <td>This</td>
+                    <td>Info</td>
+                    <td>From</td>
+                    <td>The</td>
+                    <td>Database</td>
+                </tr>
+                </tbody>
+            </table>
         </div>
     </div>
 </div>
