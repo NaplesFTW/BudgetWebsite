@@ -1,4 +1,13 @@
+*{
+  margin: 0;
+}
+
 html, body{
+  background-image: linear-gradient(#23366b, #ffffff 60%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   height: 100%;
 }
 
@@ -18,16 +27,6 @@ html, body{
 .dropdown.open .dropdown-menu {
     max-height: 300px;
     opacity: 1;
-}
-
-.back1{
-  background-image: linear-gradient(#23366b, #ffffff 60%);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  height:100%;
-  opacity: 60%;
 }
 
 .btn-block{
