@@ -122,7 +122,7 @@ C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation
 C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\bin\Microsoft.AI.Web.xml
-C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csproj.CoreCompileInputs.cache
 C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.dll
 C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.pdb
+C:\Users\Nick\Desktop\Final Semester\Capstone\Project\website\MVC implementation\capstonerunning\capstonerunning\obj\Debug\capstonerunning.csprojResolveAssemblyReference.cache
